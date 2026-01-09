@@ -17,13 +17,3 @@ This project uses a pre-trained YOLOv8 object detection model to detect and coun
 - YOLOv8 (Ultralytics)
 - NumPy
 
-##  Project Structure
-Smart traffic analyzer/
-│
-├── junction_controller.py # Main signal control logic
-├── test_libs.py # Library verification script
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignored files and folders
-├── videos/ # Lane-wise traffic videos (ignored)
-├── traffic_env/ # Virtual environment (ignored)
-└── yolov8n.pt # YOLO model weights (ignored)
